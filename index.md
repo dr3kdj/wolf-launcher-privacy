@@ -44,8 +44,8 @@ Solo cuando haces la acción correspondiente:
 Estos servicios tienen sus propias políticas de privacidad.
 
 ### 6. Permisos
-Notificaciones, alarmas exactas (recordatorios a la hora exacta), calendario, ubicación, "mostrar sobre otras apps" (barra de tareas
-flotante del modo escritorio), desinstalar apps desde su menú, y poner alarmas y temporizadores. Todos son opcionales y se piden al usar la función.
+Notificaciones, alarmas exactas (recordatorios a la hora exacta), calendario, ubicación, desinstalar apps desde su menú, y poner
+alarmas y temporizadores. Todos son opcionales y se piden al usar la función.
 
 ### 7. Niños
 La app no está dirigida a menores de 13 años.
@@ -92,8 +92,8 @@ Only when you perform the related action:
 These services have their own privacy policies.
 
 ### 6. Permissions
-Notifications, exact alarms (reminders at the exact time), calendar, location, "display over other apps" (desktop-mode floating
-taskbar), uninstalling apps from its menu, and setting alarms and timers. All are optional and requested when you use the feature.
+Notifications, exact alarms (reminders at the exact time), calendar, location, uninstalling apps from its menu, and setting alarms and
+timers. All are optional and requested when you use the feature.
 
 ### 7. Children
 The app is not directed to children under 13.
